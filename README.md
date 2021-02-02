@@ -22,3 +22,9 @@ Listing below some of my favoriate places which I would recomment to Vist.
 |Kerala| 8 | $500 |
 |Goa| 9 | $800 |
 |Hampi| 12 | $200 |
+
+---
+# My favorite qoutes
+
+1. "The future belongs to those who believe in the beauty of their dreams." -*Eleanor Roosevelt*
+2. "It is during our darkest moments that we must focus to see the light." -*Aristotle*

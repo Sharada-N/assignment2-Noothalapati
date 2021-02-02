@@ -3,6 +3,7 @@
 ###### Chicken Butter masala
 Chicken Butter Masala is a **Indian** dish whish is easy to preapre and it is part of **Indian Mughlai culinary tradition**, it is easy to find the spices, but all the spices should be mixed in correct proportion. I love this dish because of it **high flavours**.
 
+![My Picture](chickenButterMasala.jpg)
 ---
 Software Developer
 1. Software developer is responsible for developing different types of applications based on the business requirement.
@@ -23,6 +24,10 @@ Listing below some of my favoriate places which I would recomment to Vist.
 |Goa| 9 | $800 |
 |Hampi| 12 | $200 |
 
+![My Picture](Mysore.jpg)
+![My Picture](kerala.jpg)
+![My Picture](Goa.jpg)
+![My Picture](hampi.jpg)
 ---
 # My favorite qoutes
 

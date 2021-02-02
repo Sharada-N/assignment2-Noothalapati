@@ -10,3 +10,5 @@ Software Developer
 
 - Maintenance of data backup and code backup for future reference if any issue arises.
 - Understanding the requirement from client via Scrum meetings and successful implementation of various user cases.
+
+[Introduction About Me](AboutMe.md)

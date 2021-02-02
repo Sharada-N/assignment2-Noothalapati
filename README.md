@@ -12,3 +12,13 @@ Software Developer
 - Understanding the requirement from client via Scrum meetings and successful implementation of various user cases.
 
 [Introduction About Me](AboutMe.md)
+
+---
+
+Listing below some of my favoriate places which I would recomment to Vist.
+|Location| Time | Expenditure |
+|:---: | :---: | :---: |
+|Mysore| 10 | $400 |
+|Kerala| 8 | $500 |
+|Goa| 9 | $800 |
+|Hampi| 12 | $200 |
